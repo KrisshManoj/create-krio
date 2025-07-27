@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "turbo-http": "^0.3.2"
+  },
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

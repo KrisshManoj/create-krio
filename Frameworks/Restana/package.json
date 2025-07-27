@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "restana": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

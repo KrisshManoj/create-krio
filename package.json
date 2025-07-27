@@ -1,0 +1,21 @@
+{
+  "name": "create-krio",
+  "version": "1.0.0",
+  "description": "A scaffhold cli for minimal and simple frameworks like express",
+  "main": "index.js",
+  "bin": {
+    "create-krio": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["scaffhold", "express", "turbohttp", "polka", "restana", "connect"],
+  "author": "krioshabang",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "nanospinner": "^1.2.2",
+    "prompts": "^2.4.2"
+  }
+}
